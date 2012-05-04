@@ -34,3 +34,7 @@ nbproject
 .CVS
 .idea
 node_modules
+tests
+
+# Files to ignore
+temp.txt
